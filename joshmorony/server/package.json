@@ -1,0 +1,23 @@
+{
+  "name": "cloones-server",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "jwt-simple": "^0.3.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.10",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  }
+}
